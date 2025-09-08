@@ -8,7 +8,7 @@ A simple Express.js project demonstrating basic routing and API testing using Je
 - npm (comes with Node.js)
 
 ## Routing Diagram
-![Express.js Routing](./images/routing.png)
+![Express.js Routing](./images/image.png)
 
 ## Installation
 
